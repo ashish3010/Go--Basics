@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func formatSpecifier() {
+func main() {
 
 	fname := "John"
 	lname := "Doe"
