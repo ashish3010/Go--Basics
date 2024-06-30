@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func booleanAndConditions() {
+func main() {
 	age := 233
 
 	fmt.Println(age < 30)
