@@ -1,6 +1,6 @@
 # Datatypes
 
-non pointer values
+# non pointer values
 Strings
 Booleans
 Ints
@@ -8,7 +8,7 @@ Floats
 Arrays
 Structs
 
-#pointer values
+# pointer values
 Maps
 Slices
 Functions
